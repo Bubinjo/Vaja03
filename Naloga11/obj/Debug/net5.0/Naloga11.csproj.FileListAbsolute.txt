@@ -1,0 +1,16 @@
+C:\Users\Danijel\Documents\C#\Vaja03\Naloga11\bin\Debug\net5.0\Naloga11.exe
+C:\Users\Danijel\Documents\C#\Vaja03\Naloga11\bin\Debug\net5.0\Naloga11.deps.json
+C:\Users\Danijel\Documents\C#\Vaja03\Naloga11\bin\Debug\net5.0\Naloga11.runtimeconfig.json
+C:\Users\Danijel\Documents\C#\Vaja03\Naloga11\bin\Debug\net5.0\Naloga11.runtimeconfig.dev.json
+C:\Users\Danijel\Documents\C#\Vaja03\Naloga11\bin\Debug\net5.0\Naloga11.dll
+C:\Users\Danijel\Documents\C#\Vaja03\Naloga11\bin\Debug\net5.0\Naloga11.pdb
+C:\Users\Danijel\Documents\C#\Vaja03\Naloga11\obj\Debug\net5.0\Naloga11.csproj.AssemblyReference.cache
+C:\Users\Danijel\Documents\C#\Vaja03\Naloga11\obj\Debug\net5.0\Naloga11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danijel\Documents\C#\Vaja03\Naloga11\obj\Debug\net5.0\Naloga11.AssemblyInfoInputs.cache
+C:\Users\Danijel\Documents\C#\Vaja03\Naloga11\obj\Debug\net5.0\Naloga11.AssemblyInfo.cs
+C:\Users\Danijel\Documents\C#\Vaja03\Naloga11\obj\Debug\net5.0\Naloga11.csproj.CoreCompileInputs.cache
+C:\Users\Danijel\Documents\C#\Vaja03\Naloga11\obj\Debug\net5.0\Naloga11.dll
+C:\Users\Danijel\Documents\C#\Vaja03\Naloga11\obj\Debug\net5.0\refint\Naloga11.dll
+C:\Users\Danijel\Documents\C#\Vaja03\Naloga11\obj\Debug\net5.0\Naloga11.pdb
+C:\Users\Danijel\Documents\C#\Vaja03\Naloga11\obj\Debug\net5.0\Naloga11.genruntimeconfig.cache
+C:\Users\Danijel\Documents\C#\Vaja03\Naloga11\obj\Debug\net5.0\ref\Naloga11.dll
